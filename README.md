@@ -4,4 +4,3 @@ This is a version of my code created to generate a monthly report of scrapped ma
 
 This information can then be used by department managers and Manufacturing Engineers to identify areas for improvement. 
 
-Note that this script has been modified from its original version and the data is randomly generated test data. 
